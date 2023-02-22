@@ -1,0 +1,1 @@
+<script type="text/javascript" data-cmp-ab="1" src="https://cdn.consentmanager.net/delivery/autoblocking/{$consentManagerId}.js" data-cmp-host="delivery.consentmanager.net" data-cmp-cdn="cdn.consentmanager.net" data-cmp-codesrc="7"></script>

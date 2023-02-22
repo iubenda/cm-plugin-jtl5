@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<jtlshopplugin>
+    <Name>consentmanager</Name>
+    <Description>consentmanager is the easiest way to reach the new privacy standard.</Description>
+    <Author>consentmanager</Author>
+    <URL>https://www.consentmanager.net</URL>
+    <XMLVersion>102</XMLVersion>
+    <ShopVersion>500</ShopVersion>
+    <PluginID>consent_manager</PluginID>
+    <Version>1.0.0</Version>
+    <CreateDate>2021-07-17</CreateDate>
+    <Install>
+        <Adminmenu>
+            <Customlink sort="1">
+                <Name>Settings</Name>
+                <Filename>settings.php</Filename>
+            </Customlink>
+        </Adminmenu>
+    </Install>
+</jtlshopplugin>
